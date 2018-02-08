@@ -1,2 +1,2 @@
 # PostgreSQL-Tutorial-W3Resource
-This is my soultion for PostgreSQL Tutorial on W3Resource.com </br>
+This is my solution for PostgreSQL Tutorial on W3Resource.com </br>
